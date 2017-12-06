@@ -28,6 +28,7 @@ Data Science Live book: https://livebook.datascienceheroes.com/
 ### API's
 
 Theory behind API's: https://zapier.com/learn/apis/
+
 Accessing API's from R: https://tophcito.blogspot.com.es/2015/11/accessing-apis-from-r-and-little-r.html#fnref5
 
 ### MySQL
