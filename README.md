@@ -2,8 +2,11 @@
 
 ### Posts
 Deep learning and images: http://giorasimchoni.com/2017/12/04/2017-12-04-snap-fu/
+
 Intro to quasi-quotation tidyverse: http://blog.jalsalam.com/posts/2017/intro-quasi-quotation-series/
+
 Advanced Text Wraling: http://colinfay.me/purrr-text-wrangling/?utm_content=buffer71a8c&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer
+
 Predicting cancer with deep learning: https://kkulma.github.io/2017-11-07-automated_machine_learning_in_cancer_detection/?utm_content=bufferfb3de&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer
 
 A guide to parallelism in R: https://privefl.github.io/blog/a-guide-to-parallelism-in-r/
