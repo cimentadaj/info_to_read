@@ -28,6 +28,8 @@ and Problem Solving: https://afrozhussain.files.wordpress.com/2015/07/data-scien
 
 Data Science Live book: https://livebook.datascienceheroes.com/
 
+Very cool book about git, using remote servers but concentrated on R: https://info201.github.io/
+
 ### API's
 
 Theory behind API's: https://zapier.com/learn/apis/
