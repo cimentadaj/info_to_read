@@ -30,6 +30,8 @@ Data Science Live book: https://livebook.datascienceheroes.com/
 
 Very cool book about git, using remote servers but concentrated on R: https://info201.github.io/
 
+Parallel R: How to use parallelisation in R https://www.amazon.com/exec/obidos/ASIN/1449309925/7210-20
+
 ### API's
 
 Theory behind API's: https://zapier.com/learn/apis/
