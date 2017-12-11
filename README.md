@@ -32,6 +32,8 @@ Very cool book about git, using remote servers but concentrated on R: https://in
 
 Parallel R: How to use parallelisation in R https://www.amazon.com/exec/obidos/ASIN/1449309925/7210-20
 
+Mastering Software Development in R: https://bookdown.org/rdpeng/RProgDA/
+
 ### API's
 
 Theory behind API's: https://zapier.com/learn/apis/
