@@ -34,6 +34,8 @@ Parallel R: How to use parallelisation in R https://www.amazon.com/exec/obidos/A
 
 Mastering Software Development in R: https://bookdown.org/rdpeng/RProgDA/
 
+Efficient R programming: https://csgillespie.github.io/efficientR/
+
 ### API's
 
 Theory behind API's: https://zapier.com/learn/apis/
