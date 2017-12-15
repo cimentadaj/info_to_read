@@ -36,6 +36,8 @@ Mastering Software Development in R: https://bookdown.org/rdpeng/RProgDA/
 
 Efficient R programming: https://csgillespie.github.io/efficientR/
 
+Deep Learning with R: https://www.manning.com/books/deep-learning-with-r
+
 ### API's
 
 Theory behind API's: https://zapier.com/learn/apis/
