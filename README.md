@@ -39,6 +39,8 @@ Efficient R programming: https://csgillespie.github.io/efficientR/
 Deep Learning with R: https://www.manning.com/books/deep-learning-with-r
 Use the code fccallaire for a 42% discount on the book at manning.com
 
+Data Wranling with R: https://www.amazon.es/dp/B077Y1JK5Y?tag=itsalockeco09-21
+
 ### API's
 
 Theory behind API's: https://zapier.com/learn/apis/
