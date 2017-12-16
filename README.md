@@ -19,6 +19,9 @@ Tutorial on SQL: https://swcarpentry.github.io/sql-novice-survey/
 
 Git tips: https://github.com/git-tips/tips#revert-undo-a-commit-by-creating-a-new-commit
 
+Practical Data Science for Stats: https://peerj.com/collections/50-practicaldatascistats/
+* Very Important *
+
 ### Books
 
 Data Science in R
