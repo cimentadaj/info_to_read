@@ -53,3 +53,8 @@ Accessing API's from R: https://tophcito.blogspot.com.es/2015/11/accessing-apis-
 ### MySQL
 
 How to set up my remote SQL server: http://devdocs.magento.com/guides/v2.0/install-gde/prereq/mysql_remote.html
+
+
+### Machine Learning books
+
+https://machinelearningmastery.com/machine-learning-books/
