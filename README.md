@@ -42,7 +42,7 @@ Efficient R programming: https://csgillespie.github.io/efficientR/
 Deep Learning with R: https://www.manning.com/books/deep-learning-with-r
 Use the code fccallaire for a 42% discount on the book at manning.com
 
-Data Wranling with R: https://www.amazon.es/dp/B077Y1JK5Y?tag=itsalockeco09-21
+Data Wrangling with R: https://www.amazon.es/dp/B077Y1JK5Y?tag=itsalockeco09-21
 
 ### API's
 
@@ -58,3 +58,7 @@ Really but REALLY cool tutorial on PostgreSQL (very interactive): https://pgexer
 ### Machine Learning books
 
 https://machinelearningmastery.com/machine-learning-books/
+
+### MOOCS
+
+Applied Deep Learning course. Seems very very interesting: http://course.fast.ai/index.html
