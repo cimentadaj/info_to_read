@@ -44,6 +44,8 @@ Use the code fccallaire for a 42% discount on the book at manning.com
 
 Data Wrangling with R: https://www.amazon.es/dp/B077Y1JK5Y?tag=itsalockeco09-21
 
+Very cool visualization book: http://serialmentor.com/dataviz/index.html
+
 ### API's
 
 Theory behind API's: https://zapier.com/learn/apis/
