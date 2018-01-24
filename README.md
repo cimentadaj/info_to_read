@@ -46,6 +46,8 @@ Data Wrangling with R: https://www.amazon.es/dp/B077Y1JK5Y?tag=itsalockeco09-21
 
 Very cool visualization book: http://serialmentor.com/dataviz/index.html
 
+Data Science from terminal: http://datascienceatthecommandline.com/index.html
+
 ### API's
 
 Theory behind API's: https://zapier.com/learn/apis/
