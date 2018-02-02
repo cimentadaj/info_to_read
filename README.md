@@ -60,6 +60,8 @@ How to set up my remote SQL server: http://devdocs.magento.com/guides/v2.0/insta
 
 Really but REALLY cool tutorial on PostgreSQL (very interactive): https://pgexercises.com/
 
+Cool tutorial on MySQL: https://community.modeanalytics.com/sql/tutorial/introduction-to-sql/
+
 ### Machine Learning books
 
 https://machinelearningmastery.com/machine-learning-books/
