@@ -54,6 +54,8 @@ Theory behind API's: https://zapier.com/learn/apis/
 
 Accessing API's from R: https://tophcito.blogspot.com.es/2015/11/accessing-apis-from-r-and-little-r.html#fnref5
 
+Building an API R package in 10 minutes: http://colinfay.me/build-api-wrapper-package-r/
+
 ### MySQL
 
 How to set up my remote SQL server: http://devdocs.magento.com/guides/v2.0/install-gde/prereq/mysql_remote.html
