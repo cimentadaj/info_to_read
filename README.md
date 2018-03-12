@@ -70,6 +70,8 @@ Cool tutorial on MySQL: https://community.modeanalytics.com/sql/tutorial/introdu
 
 https://machinelearningmastery.com/machine-learning-books/
 
+Very long post introducing caret: https://www.machinelearningplus.com/caret-package/
+
 ### MOOCS
 
 Applied Deep Learning course. Seems very very interesting: http://course.fast.ai/index.html
