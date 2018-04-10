@@ -13,6 +13,8 @@ Predicting cancer with deep learning: https://kkulma.github.io/2017-11-07-automa
 
 A guide to parallelism in R: https://privefl.github.io/blog/a-guide-to-parallelism-in-r/
 
+A guide to tidy and base non-standard evaluation: https://edwinth.github.io/blog/nse/
+
 ### Articles
 
 Hands-on introduction to Stan: http://nbviewer.jupyter.org/github/QuantEcon/QuantEcon.notebooks/blob/master/IntroToStan_basics_workflow.ipynb#C)-Estimating-the-model-for-known-parameters
