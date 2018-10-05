@@ -15,6 +15,7 @@ A guide to parallelism in R: https://privefl.github.io/blog/a-guide-to-paralleli
 
 A guide to tidy and base non-standard evaluation: https://edwinth.github.io/blog/nse/
 
+I like this on ML with recipes and modelgrid: http://smaakage85.netlify.com/2018/09/24/tuning-a-data-preprocessing-pipeline-with-recipes-and-modelgrid/
 ### Articles
 
 Hands-on introduction to Stan: http://nbviewer.jupyter.org/github/QuantEcon/QuantEcon.notebooks/blob/master/IntroToStan_basics_workflow.ipynb#C)-Estimating-the-model-for-known-parameters
