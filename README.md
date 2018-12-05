@@ -55,6 +55,8 @@ Data Science from terminal: http://datascienceatthecommandline.com/index.html
 
 Stan book from the creators of Stan: http://mc-stan.org/docs/bayes-stats-stan/
 
+Bayesian Econometrics with Stan - released June, 2019
+
 ### API's
 
 Theory behind API's: https://zapier.com/learn/apis/
