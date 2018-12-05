@@ -44,6 +44,8 @@ Mastering Software Development in R: https://bookdown.org/rdpeng/RProgDA/
 
 Efficient R programming: https://csgillespie.github.io/efficientR/
 
+Explaining black box models in R: https://christophm.github.io/interpretable-ml-book/tree.html
+
 Deep Learning with R: https://www.manning.com/books/deep-learning-with-r
 Use the code fccallaire for a 42% discount on the book at manning.com
 
