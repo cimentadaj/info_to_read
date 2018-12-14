@@ -59,6 +59,8 @@ Stan book from the creators of Stan: http://mc-stan.org/docs/bayes-stats-stan/
 
 Bayesian Econometrics with Stan - released June, 2019
 
+Geo-computation with R: https://nowosad.github.io/post/geocomputation-with-r-the-afterword/
+
 ### API's
 
 Theory behind API's: https://zapier.com/learn/apis/
