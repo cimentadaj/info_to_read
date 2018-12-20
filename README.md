@@ -61,6 +61,8 @@ Bayesian Econometrics with Stan - released June, 2019
 
 Geo-computation with R: https://nowosad.github.io/post/geocomputation-with-r-the-afterword/
 
+Data Visualization: Charts, Maps, and Interactive Graphics: https://www.crcpress.com/Data-Visualization-Charts-Maps-and-Interactive-Graphics/Grant/p/book/9781138707603
+
 ### API's
 
 Theory behind API's: https://zapier.com/learn/apis/
