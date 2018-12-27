@@ -63,6 +63,9 @@ Geo-computation with R: https://nowosad.github.io/post/geocomputation-with-r-the
 
 Data Visualization: Charts, Maps, and Interactive Graphics: https://www.crcpress.com/Data-Visualization-Charts-Maps-and-Interactive-Graphics/Grant/p/book/9781138707603
 
+Reproducible Finance with R: Code Flows and Shiny Apps for Portfolio Analysis: https://www.crcpress.com/Reproducible-Finance-with-R-Code-Flows-and-Shiny-Apps-for-Portfolio-Analysis/Jr/p/book/9781138484030
+
+Forecasting: Principles and Practice: https://otexts.org/fpp2/
 ### API's
 
 Theory behind API's: https://zapier.com/learn/apis/
