@@ -88,6 +88,10 @@ https://machinelearningmastery.com/machine-learning-books/
 
 Very long post introducing caret: https://www.machinelearningplus.com/caret-package/
 
+### Spatial Statistics
+
+https://www.dshkol.com/2018/better-maps-with-vector-tiles/
+
 ### MOOCS
 
 Applied Deep Learning course. Seems very very interesting: http://course.fast.ai/index.html
