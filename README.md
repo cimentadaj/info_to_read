@@ -15,6 +15,8 @@ A guide to parallelism in R: https://privefl.github.io/blog/a-guide-to-paralleli
 
 A guide to tidy and base non-standard evaluation: https://edwinth.github.io/blog/nse/
 
+Rstudio shortcut and tips: https://appsilon.com/r-studio-shortcuts-and-tips/
+
 I like this on ML with recipes and modelgrid: http://smaakage85.netlify.com/2018/09/24/tuning-a-data-preprocessing-pipeline-with-recipes-and-modelgrid/
 ### Articles
 
