@@ -66,6 +66,8 @@ Data Visualization: Charts, Maps, and Interactive Graphics: https://www.crcpress
 Reproducible Finance with R: Code Flows and Shiny Apps for Portfolio Analysis: https://www.crcpress.com/Reproducible-Finance-with-R-Code-Flows-and-Shiny-Apps-for-Portfolio-Analysis/Jr/p/book/9781138484030
 
 Forecasting: Principles and Practice: https://otexts.org/fpp2/
+
+Advanced R, Second edition: https://adv-r.hadley.nz/
 ### API's
 
 Theory behind API's: https://zapier.com/learn/apis/
