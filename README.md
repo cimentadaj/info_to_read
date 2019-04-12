@@ -29,6 +29,8 @@ Git tips: https://github.com/git-tips/tips#revert-undo-a-commit-by-creating-a-ne
 Practical Data Science for Stats: https://peerj.com/collections/50-practicaldatascistats/
 * Very Important *
 
+First detailed web scraping tutorial I've seen for R: https://blog.rsquaredacademy.com/web-scraping/
+
 ### Books
 
 Data Science in R
