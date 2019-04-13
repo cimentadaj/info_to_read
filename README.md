@@ -65,6 +65,8 @@ Bayesian Econometrics with Stan - released June, 2019
 
 Geo-computation with R: https://nowosad.github.io/post/geocomputation-with-r-the-afterword/
 
+Another (I think improved) geo-computation book with R: https://geocompr.robinlovelace.net/
+
 Data Visualization: Charts, Maps, and Interactive Graphics: https://www.crcpress.com/Data-Visualization-Charts-Maps-and-Interactive-Graphics/Grant/p/book/9781138707603
 
 Reproducible Finance with R: Code Flows and Shiny Apps for Portfolio Analysis: https://www.crcpress.com/Reproducible-Finance-with-R-Code-Flows-and-Shiny-Apps-for-Portfolio-Analysis/Jr/p/book/9781138484030
