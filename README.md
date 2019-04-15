@@ -18,6 +18,7 @@ A guide to tidy and base non-standard evaluation: https://edwinth.github.io/blog
 Rstudio shortcut and tips: https://appsilon.com/r-studio-shortcuts-and-tips/
 
 I like this on ML with recipes and modelgrid: http://smaakage85.netlify.com/2018/09/24/tuning-a-data-preprocessing-pipeline-with-recipes-and-modelgrid/
+
 ### Articles
 
 Hands-on introduction to Stan: http://nbviewer.jupyter.org/github/QuantEcon/QuantEcon.notebooks/blob/master/IntroToStan_basics_workflow.ipynb#C)-Estimating-the-model-for-known-parameters
@@ -53,6 +54,8 @@ Explaining black box models in R: https://christophm.github.io/interpretable-ml-
 Deep Learning with R: https://www.manning.com/books/deep-learning-with-r
 Use the code fccallaire for a 42% discount on the book at manning.com
 
+Big Data and Social Science: https://coleridge-initiative.github.io/big-data-and-social-science/
+
 Data Wrangling with R: https://www.amazon.es/dp/B077Y1JK5Y?tag=itsalockeco09-21
 
 Very cool visualization book: http://serialmentor.com/dataviz/index.html
@@ -63,11 +66,9 @@ Stan book from the creators of Stan: http://mc-stan.org/docs/bayes-stats-stan/
 
 Bayesian Econometrics with Stan - released June, 2019
 
-Geo-computation with R: https://nowosad.github.io/post/geocomputation-with-r-the-afterword/
-
-Another (I think improved) geo-computation book with R: https://geocompr.robinlovelace.net/
-
 Data Visualization: Charts, Maps, and Interactive Graphics: https://www.crcpress.com/Data-Visualization-Charts-Maps-and-Interactive-Graphics/Grant/p/book/9781138707603
+
+Fundamentals of Data Vizualization: https://serialmentor.com/dataviz/
 
 Reproducible Finance with R: Code Flows and Shiny Apps for Portfolio Analysis: https://www.crcpress.com/Reproducible-Finance-with-R-Code-Flows-and-Shiny-Apps-for-Portfolio-Analysis/Jr/p/book/9781138484030
 
@@ -99,6 +100,14 @@ Very long post introducing caret: https://www.machinelearningplus.com/caret-pack
 ### Spatial Statistics
 
 https://www.dshkol.com/2018/better-maps-with-vector-tiles/
+
+### Tutorials
+
+Web scraping: https://github.com/alexsanchezpla/WebScraping_with_R/tree/master/WebScraping_course
+
+Geo-computation with R: https://nowosad.github.io/post/geocomputation-with-r-the-afterword/
+
+Another (I think improved) geo-computation book with R: https://geocompr.robinlovelace.net/
 
 ### MOOCS
 
