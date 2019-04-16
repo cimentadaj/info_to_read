@@ -21,6 +21,8 @@ I like this on ML with recipes and modelgrid: http://smaakage85.netlify.com/2018
 
 Understanding and creating packages in Python: http://veekaybee.github.io/2017/09/26/python-packaging/
 
+Why randomization doesn't fix mediation analysis: https://www.rdatagen.net/post/even-with-randomization-mediation-analysis-can-still-be-confounded/
+
 ### Articles
 
 Hands-on introduction to Stan: http://nbviewer.jupyter.org/github/QuantEcon/QuantEcon.notebooks/blob/master/IntroToStan_basics_workflow.ipynb#C)-Estimating-the-model-for-known-parameters
