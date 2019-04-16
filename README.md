@@ -19,6 +19,8 @@ Rstudio shortcut and tips: https://appsilon.com/r-studio-shortcuts-and-tips/
 
 I like this on ML with recipes and modelgrid: http://smaakage85.netlify.com/2018/09/24/tuning-a-data-preprocessing-pipeline-with-recipes-and-modelgrid/
 
+Understanding and creating packages in Python: http://veekaybee.github.io/2017/09/26/python-packaging/
+
 ### Articles
 
 Hands-on introduction to Stan: http://nbviewer.jupyter.org/github/QuantEcon/QuantEcon.notebooks/blob/master/IntroToStan_basics_workflow.ipynb#C)-Estimating-the-model-for-known-parameters
