@@ -23,6 +23,8 @@ Understanding and creating packages in Python: http://veekaybee.github.io/2017/0
 
 Why randomization doesn't fix mediation analysis: https://www.rdatagen.net/post/even-with-randomization-mediation-analysis-can-still-be-confounded/
 
+How to make very detailed maps in R: https://timogrossenbacher.ch/2019/04/bivariate-maps-with-ggplot2-and-sf/
+
 ### Articles
 
 Hands-on introduction to Stan: http://nbviewer.jupyter.org/github/QuantEcon/QuantEcon.notebooks/blob/master/IntroToStan_basics_workflow.ipynb#C)-Estimating-the-model-for-known-parameters
