@@ -81,6 +81,9 @@ Reproducible Finance with R: Code Flows and Shiny Apps for Portfolio Analysis: h
 Forecasting: Principles and Practice: https://otexts.org/fpp2/
 
 Advanced R, Second edition: https://adv-r.hadley.nz/
+
+RStudio server image in 2 minutes with DigitalOcean: https://blog.pacha.hk/2019/04/27/a-new-image-on-digitalocean-to-start-using-rstudio-server-without-waiting-more-than-2-minutes/
+
 ### API's
 
 Theory behind API's: https://zapier.com/learn/apis/
