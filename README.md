@@ -110,6 +110,7 @@ Very long post introducing caret: https://www.machinelearningplus.com/caret-pack
 
 https://www.dshkol.com/2018/better-maps-with-vector-tiles/
 
+R Spatial packages: https://twitter.com/zevross/status/1123204696141963264
 ### Tutorials
 
 Web scraping: https://github.com/alexsanchezpla/WebScraping_with_R/tree/master/WebScraping_course
