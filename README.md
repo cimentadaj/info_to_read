@@ -84,6 +84,8 @@ Advanced R, Second edition: https://adv-r.hadley.nz/
 
 RStudio server image in 2 minutes with DigitalOcean: https://blog.pacha.hk/2019/04/27/a-new-image-on-digitalocean-to-start-using-rstudio-server-without-waiting-more-than-2-minutes/
 
+Semi-parametric regression in R with Stan: http://semiparametric-regression-with-r.net/
+
 ### API's
 
 Theory behind API's: https://zapier.com/learn/apis/
