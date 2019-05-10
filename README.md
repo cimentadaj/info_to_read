@@ -62,6 +62,8 @@ Use the code fccallaire for a 42% discount on the book at manning.com
 
 Big Data and Social Science: https://coleridge-initiative.github.io/big-data-and-social-science/
 
+A Philosophy of Software Design: https://www.goodreads.com/book/show/39996759-a-philosophy-of-software-design
+
 Data Wrangling with R: https://www.amazon.es/dp/B077Y1JK5Y?tag=itsalockeco09-21
 
 Very cool visualization book: http://serialmentor.com/dataviz/index.html
