@@ -88,6 +88,8 @@ RStudio server image in 2 minutes with DigitalOcean: https://blog.pacha.hk/2019/
 
 Semi-parametric regression in R with Stan: http://semiparametric-regression-with-r.net/
 
+Parallel Computing for Data Science: With Examples in R, C++ and CUDA (Chapman & Hall/CRC The R Series) 1st Edition: https://www.crcpress.com/Parallel-Computing-for-Data-Science-With-Examples-in-R-C-and-CUDA/Matloff/p/book/9781466587014
+
 ### API's
 
 Theory behind API's: https://zapier.com/learn/apis/
