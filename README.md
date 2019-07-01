@@ -86,6 +86,8 @@ Forecasting: Principles and Practice: https://otexts.org/fpp2/
 
 Advanced R, Second edition: https://adv-r.hadley.nz/
 
+Principles of Econometrics with R: https://bookdown.org/ccolonescu/RPoE4/
+
 RStudio server image in 2 minutes with DigitalOcean: https://blog.pacha.hk/2019/04/27/a-new-image-on-digitalocean-to-start-using-rstudio-server-without-waiting-more-than-2-minutes/
 
 Semi-parametric regression in R with Stan: http://semiparametric-regression-with-r.net/
