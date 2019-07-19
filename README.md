@@ -25,6 +25,8 @@ Why randomization doesn't fix mediation analysis: https://www.rdatagen.net/post/
 
 How to make very detailed maps in R: https://timogrossenbacher.ch/2019/04/bivariate-maps-with-ggplot2-and-sf/
 
+How to use `ggraph`: http://schochastics.net/netVizR.html
+
 ### Articles
 
 Hands-on introduction to Stan: http://nbviewer.jupyter.org/github/QuantEcon/QuantEcon.notebooks/blob/master/IntroToStan_basics_workflow.ipynb#C)-Estimating-the-model-for-known-parameters
