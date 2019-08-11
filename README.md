@@ -40,6 +40,8 @@ Practical Data Science for Stats: https://peerj.com/collections/50-practicaldata
 
 First detailed web scraping tutorial I've seen for R: https://blog.rsquaredacademy.com/web-scraping/
 
+History and very good examples on Mediation Analysis: https://blog.methodsconsultants.com/posts/how-to-do-mediation-scientifically/
+
 ### Books
 
 Data Science in R
